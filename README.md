@@ -61,7 +61,8 @@ streamlit run Streamlit_App_EHI.py
 ![DistilBART EHI EF1](Fine_tuning_LLMs_using_Entity_Hallucination_Index/Results_SnapShots/DistilBart_EHI_EF1_LinePlot.png)
 
 **Flan-T5**
-![Flan-T5 EHI EF1](Fine_tuning_LLMs_using_Entity_Hallucination_Index/Results_SnapShots/EHI_EF1_LinePlot_FlanT5 Model.png)
+![Flan-T5 EHI EF1](Fine_tuning_LLMs_using_Entity_Hallucination_Index/Results_SnapShots/EHI_EF1_LinePlot_FlanT5%20Model.png)
+
 
 **Mistral**
 ![Mistral EHI EF1](Fine_tuning_LLMs_using_Entity_Hallucination_Index/Results_SnapShots/EHI_EF1_LinePlot_Mistral_Model.png)
