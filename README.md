@@ -47,6 +47,7 @@ streamlit run Streamlit_App_EHI.py
 ![Avg DistilBART](Fine_tuning_LLMs_using_Entity_Hallucination_Index/Results_SnapShots/Avg_Table_DistilBart.png)
 
 **Flan-T5**
+
 ![Avg Flan-T5](Fine_tuning_LLMs_using_Entity_Hallucination_Index/Results_SnapShots/Avg_Table_FlanT5.png)
 
 **Mistral**
