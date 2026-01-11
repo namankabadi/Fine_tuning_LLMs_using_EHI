@@ -33,7 +33,7 @@ The Streamlit application provides:
 streamlit run Streamlit_App_EHI.py
 
 ---
-
+```
 ## 📸 Results & Visualizations
 
 ### 🧪 Streamlit UI Overview
